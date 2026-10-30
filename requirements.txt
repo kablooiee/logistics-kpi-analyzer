@@ -1,0 +1,7 @@
+PyQt5
+pandas
+numpy
+openpyxl
+matplotlib
+markdown
+reportlab
